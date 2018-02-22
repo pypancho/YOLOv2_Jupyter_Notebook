@@ -3,7 +3,7 @@
 Python3, tensorflow, numpy, opencv 3, Cython for python 3
 
 ## How to build
-## Please choose one of the following three ways to get started with darkflow
+### Please choose one of the following three ways to get started with darkflow
 
 1. python3 setup.py build_ext --inplace
 
