@@ -11,6 +11,9 @@ Python3, tensorflow, numpy, opencv 3, Cython for python 3
 
 3. pip install .
 
+## Download the pre-trained weight
+wget https://pjreddie.com/media/files/yolo.weights
+
 ## After installing, please launch the Jupyter Notebook, and open 'Yolo_Jupyter.ipynb'
 Run each cell, you will see how YOLO works on Jupyter Notebook
 
