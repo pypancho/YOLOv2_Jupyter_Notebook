@@ -1,5 +1,5 @@
 # YOLOv2_Jupyter_Notebook
-# Dependencies
+## Dependencies
 Python3, tensorflow, numpy, opencv 3, Cython for python 3
 
 # How to build
